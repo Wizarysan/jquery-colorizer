@@ -38,6 +38,3 @@
   }
 }(jQuery));
 
-
-$('body').colorizer({colors: [[255,255,255], [0,0,0]], step: 10});
-$('.long').colorizer({colors: [[0,0,0], [255,255,255]], step: 10});
